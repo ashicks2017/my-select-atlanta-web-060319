@@ -10,6 +10,6 @@ i +=1
 end
 select
 end 
-collection = [1, 2, 3, 4, 5}
+collection = [1, 2, 3, 4, 5]
 my_select(collection) {|num| num.even? }
 
